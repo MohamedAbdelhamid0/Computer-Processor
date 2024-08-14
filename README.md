@@ -1,4 +1,6 @@
 # Computer-Processor
+![1](https://github.com/user-attachments/assets/bb99f7ef-9626-43f8-95e4-c420fee2b8e3)
+
 The following project is a computer processing system (a small one). This was a project in my sophomore year in college. The project contains 2 phases. 
 
 Phase 1 Contents:
