@@ -11,3 +11,7 @@ Phase 1 Contents:
 Phase 2 Contents:
 1) Phase 1 Folder
 2) Whole Processing System as shown in the picture
+
+# Notes
+1) The first phase of the project was made by me alone.
+2) The second phase was completed with my college project team
