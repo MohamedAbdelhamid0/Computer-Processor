@@ -1,5 +1,45 @@
-*.java linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.vhdl linguist-detectable=false
+*.vhdl text linguist-language=VHDL
+*.vhd text linguist-language=VHDL
+
+*.circ text linguist-language=Logisim
+*.circuit text linguist-language=Logisim
+
+*.cpp linguist-detectable=false
 *.xml linguist-detectable=false
+*.json linguist-detectable=false
+*.txt linguist-detectable=false
+
+*.md linguist-detectable=false
+*.log linguist-detectable=false
+
+*.bin linguist-detectable=false
+*.jpg linguist-detectable=false
+*.png linguist-detectable=false
+*.gif linguist-detectable=false
+*.pdf linguist-detectable=false
+
+*.md text
+*.txt text
+
+*.html text
+*.css text
+*.js text
+*.c text
+*.cpp text
+*.h text
+*.java text
+*.py text
+*.rb text
+
+*.xml text
+
+*.json text
+
+*.gitignore text
+
+*.bin binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.pdf binary
