@@ -18,28 +18,3 @@
 *.gif linguist-detectable=false
 *.pdf linguist-detectable=false
 
-*.md text
-*.txt text
-
-*.html text
-*.css text
-*.js text
-*.c text
-*.cpp text
-*.h text
-*.java text
-*.py text
-*.rb text
-
-*.xml text
-
-*.json text
-
-*.gitignore text
-
-*.bin binary
-*.jpg binary
-*.jpeg binary
-*.png binary
-*.gif binary
-*.pdf binary
