@@ -1,1 +1,2 @@
-* text=auto
+*.vhdl text diff=vhdl
+*.vhd text diff=vhdl
